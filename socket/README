@@ -5,3 +5,8 @@ tcp_client.py为tcp的客户端
 
 ——————————————————————————————————————————————————
 http_client.py用来获取sina的主页
+
+——————————————————————————————————————————————————
+udp_server.py为UDP的服务端
+udp_client.py为UDP的客户端
+须先运行udp_server.py，再运行udp_client.py
