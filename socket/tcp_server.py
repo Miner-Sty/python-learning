@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
 'a server example which send hello to client.'
+__author__='Miner'
 
 import time, socket, threading
 
