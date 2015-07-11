@@ -5,3 +5,11 @@ sendemail.py为使用SMTP协议发送邮件，文本信息格式为Plain
 sendemail_html.py为发送HTML邮件
 
 ——————————————————————————————————————————————————
+sendemail_enclosure.py发送邮件同时添加附件
+
+——————————————————————————————————————————————————
+sendemail_enclosure_mix.py发送邮件同时添加附件，直接
+以html显示
+
+——————————————————————————————————————————————————
+sendemail_encrypt.py 发送邮件同时加密
